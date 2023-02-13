@@ -1,0 +1,50 @@
+.backgroundstyle{
+    background-image: linear-gradient(gray, white);
+    background-repeat: no-repeat;
+}
+
+nav{
+    background-image: linear-gradient(gray, white);
+    background-repeat: no-repeat;
+}
+
+.headerstyle{
+    font-size: 45px;
+    font-family: monospace;
+}
+
+table{
+    font-family: monospace;
+}
+
+caption{
+    font-size: 30px;
+}
+
+.movietext{
+    text-decoration-line: underline;
+}
+
+.booktext{
+    font-style: italic;
+}
+
+.carouselimg{
+    width: 50%;
+    margin:auto;
+}
+
+.fixedsizeimg{
+    height:500px;
+}
+
+.backgroundstylealt{
+    background-image: linear-gradient(rgb(14, 185, 79), white);
+    background-repeat: no-repeat;
+}
+
+.aboutmeStyle{
+    font-family: monospace;
+    width: 45%;
+    font-size: large;
+}
